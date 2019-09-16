@@ -9,7 +9,7 @@ A program that helps you cheat and win quickly in the most efficient way in the 
 
 ## Instructions
 
-The objective of the game is to move all disks from the starting tower to the destination tower which is usually the third one.
+The objective of the game is to move all disks from the starting tower to the destination tower which is usually the third one without placing a larger disk on top of a smaller disk.
 
 ## Installation
 
