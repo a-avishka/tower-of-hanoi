@@ -2,7 +2,6 @@
 
 #### A cheat-sheet generator to the good old game Tower Of Hanoi
 
-![enter image description here](https://lh3.googleusercontent.com/2PFvzEtp1zLQHtWUZRuh8RtlbU5NEcP2fJWw-fGt6-EvVyjRYOu_AYHjhN7oi834g-UhQimyvg4)
 
 
 A program that helps you cheat and win quickly in the most efficient way in the mathematical puzzle game Tower of Hanoi.
